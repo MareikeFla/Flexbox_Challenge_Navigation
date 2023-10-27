@@ -21,6 +21,7 @@ ul {
   padding: 20px;
   color: #252629;
   background-color: #f3f5f9;
+  
 }
 
 .navigation__link {
@@ -28,4 +29,9 @@ ul {
   color: #ffffff;
   padding: 5px 14px;
   border-radius: 5px;
+}
+
+.navigation__menu {
+  display: flex;
+  
 }
